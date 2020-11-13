@@ -12,6 +12,5 @@
 
 ### Install packages
 
-`pip install scikit-learn`
-`pip install streamlit`
-`pip install matplotlib`
+`pip install streamlit scikit-learn matplotlib`
+: If a `numpy` error crashes the application, try running `pip install numpy==1.19.3`
